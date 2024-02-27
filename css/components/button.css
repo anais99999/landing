@@ -1,0 +1,28 @@
+.btn-blue {
+	background-color: #7975D5; /* Fond violet */
+	color: white; /* Texte blanc */
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover {
+	background-color: black; /* Fond noir au survol */
+	color: white; /* Texte reste blanc */
+}
+
+.btn-white {
+	background-color: #F7F9FC; /* Fond violet */
+	color: black; /* Texte blanc */
+	font-size: 20px;
+	font-family: Arial;
+	font-weight:bold ;
+	padding: 15px 20px;
+	border-radius: 4px;
+	text-align: center;
+}
+
+.btn-blue:hover {
+	background-color: black; /* Fond noir au survol */
+	color: white; /* Texte reste blanc *
+
+}
